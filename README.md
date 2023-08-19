@@ -1,4 +1,3 @@
-# odin_recipes
 ## Basic HTML site to learn:
 
 HTML: Ordered/Unordered lists, inserting img, referencing different pages
